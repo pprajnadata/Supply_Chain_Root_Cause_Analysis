@@ -31,7 +31,7 @@ Using **SQLite**, I implemented a `CASE` statement to compare the two phases. If
 After analyzing 194 short-distance failures, the data revealed a startling reality:
 * **Average Warehouse Phase:** ~2.37 Days
 * **Average Road Phase:** ~1.05 Days
-
+![warehouse_vs_road_phase](Assets/Avg_time_chart.png)
 ** Observation:** Even for local trips, warehouse processing time is, on average, **more than double** the actual delivery time.
 
 

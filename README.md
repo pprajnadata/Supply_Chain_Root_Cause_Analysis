@@ -1,6 +1,6 @@
 # Logistics Delivery Bottleneck Analysis (Root Cause Analysis)
 #Finding Bottlenecks at Supply chain
-# 🚛 We have all been there: frustrated, checking a delivery app, and imagining our package stuck in a massive traffic jam. But is the "traffic jam" actually the problem? 
+🚛 We have all been there: frustrated, checking a delivery app, and imagining our package stuck in a massive traffic jam. But is the "traffic jam" actually the problem? 
 
 This project performs a **Root Cause Analysis (RCA)** on 10,000+ logistics orders to determine if late deliveries are caused by **Transit Failures** or **Merchant Processing Bottlenecks**.
 

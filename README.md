@@ -7,7 +7,7 @@ This project performs a **Root Cause Analysis (RCA)** on 10,000+ logistics order
 ---
 
 ## 🧠 The Project Overview
-The "Delayed Delivery" tag is a heavy one that usually hurts a logistics team's reputation. To keep the analysis fair and isolate the variables, I used Python to focus on **"local" orders** (distance < 15km). If a short-distance trip takes days, the highway isn't the problem.
+The "Delayed Delivery" tag is a heavy one that usually hurts a logistics team's reputation. To keep the analysis fair and isolate the variables, I used Python to focus on **"local" orders** (distance < 50km). If a short-distance trip takes days, the highway isn't the problem.
 ![Raw Data Overview](Assets/Rawdata.png)
 
 ### The Methodology: "Splitting the Clock"

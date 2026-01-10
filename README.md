@@ -23,7 +23,7 @@ I used SQL to divide the delivery timeline into two distinct phases:
 Using **SQLite**, I implemented a `CASE` statement to compare the two phases. If the Warehouse Phase outweighed the Road Phase, the order was flagged as a **'Merchant Bottleneck'**.
 
 
-![SQL merchant delay logic used](Assets/Transit_delays.png)
+![SQL merchant delay logic used](Assets/Transit_delay.png)
 ---
 
 ## 📊 Key Findings: The "Aha!" Moment
